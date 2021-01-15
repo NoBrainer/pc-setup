@@ -1,0 +1,4 @@
+# IntelliJ files
+.idea/shelf
+.idea/workspace.xml
+**.iml
